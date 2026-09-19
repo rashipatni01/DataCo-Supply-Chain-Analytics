@@ -285,7 +285,7 @@ customers → orders → order_items ← products
 DAX measures include: Total Sales, Total Profit, Total Quantity, Total Orders, Total Customers, Average Order Value, Profit Margin %, Average Items per Order, Late Delivery Rate %, Late Delivery Risk Orders, Average Actual Shipping Days, Average Shipping Delay Days.
  
 ![Executive Overview](Assets/Executive_Overview.PNG)
-![Demand and Forecast](Assets/Demand_And_forecast.PNG)
+![Demand and Forecast](Assets/Demand_and_Forecast.PNG)
 ![Inventory Health](Assets/Inventory_Health.PNG)
 ![Logistic and Delivery Performance](Assets/Logistic_and_Delivery_Performance.PNG)
 ![Geographical and Regional Operations](Assets/Geographical_and_Regional_Operations.PNG)
