@@ -284,11 +284,11 @@ customers → orders → order_items ← products
 5. **Geographical and Regional Operations** — regional sales vs. profit, top order regions/cities by sales, regional performance summary table, regional sales trend by market
 DAX measures include: Total Sales, Total Profit, Total Quantity, Total Orders, Total Customers, Average Order Value, Profit Margin %, Average Items per Order, Late Delivery Rate %, Late Delivery Risk Orders, Average Actual Shipping Days, Average Shipping Delay Days.
  
-![Executive Overview](assets/Executive_Overview.PNG)
-![Demand and Forecast](assets/Demand_And_forecast.PNG)
-![Inventory Health](assets/Inventory_Health.PNG)
-![Logistic and Delivery Performance](assets/Logistic_and_Delivery_Performance.PNG)
-![Geographical and Regional Operations](assets/Geographical_and_Regional_Operations.PNG)
+![Executive Overview](Assets/Executive_Overview.PNG)
+![Demand and Forecast](Assets/Demand_And_forecast.PNG)
+![Inventory Health](Assets/Inventory_Health.PNG)
+![Logistic and Delivery Performance](Assets/Logistic_and_Delivery_Performance.PNG)
+![Geographical and Regional Operations](Assets/Geographical_and_Regional_Operations.PNG)
 
  
 ## Dashboard-Only Insights
